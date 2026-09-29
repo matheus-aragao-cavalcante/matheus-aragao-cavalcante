@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/matheus2002ac"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://portfolio-matheuss.netlify.app"><img src="https://img.shields.io/badge/Portfolio-F2C811?style=for-the-badge&logo=netlify&logoColor=black" alt="Portfolio"/></a>
 <a href="mailto:matheus2002ac@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=F2C811&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=matheus-aragao-cavalcante&color=F2C811&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
@@ -48,9 +48,10 @@ WHERE  business_impact > 0
 
 <div align="center">
 
+<img src="./assets/bi-dashboard.svg" width="100%" alt="Animated BI dashboard - Operations Performance" />
+
 | | | | |
 |:---:|:---:|:---:|:---:|
-| <img src="https://img.shields.io/badge/%E2%86%93%2080%25-Reporting%20Effort-F2C811?style=for-the-badge&labelColor=0D1117" /> | <img src="https://img.shields.io/badge/10%2B-Data%20Sources%20Unified-F2C811?style=for-the-badge&labelColor=0D1117" /> | <img src="https://img.shields.io/badge/14-Stakeholder%20Groups-F2C811?style=for-the-badge&labelColor=0D1117" /> | <img src="https://img.shields.io/badge/23-Initiatives%20Monitored-F2C811?style=for-the-badge&labelColor=0D1117" /> |
 | <img src="https://img.shields.io/badge/%E2%86%93%2060%25-Manual%20Process%20Steps-3FB950?style=for-the-badge&labelColor=0D1117" /> | <img src="https://img.shields.io/badge/%E2%86%91%2090%25-Timekeeping%20Accuracy-3FB950?style=for-the-badge&labelColor=0D1117" /> | <img src="https://img.shields.io/badge/2h%20daily-Manual%20Work%20Eliminated-3FB950?style=for-the-badge&labelColor=0D1117" /> | <img src="https://img.shields.io/badge/%E2%86%93%2040%25-Info%20Bottlenecks-3FB950?style=for-the-badge&labelColor=0D1117" /> |
 
 </div>
@@ -65,15 +66,7 @@ WHERE  business_impact > 0
 
 </div>
 
-<!-- ============ DASHBOARD SHOWCASE (optional) ============
-     Record a short GIF of one of your own dashboards (anonymized),
-     save it as assets/dashboard-demo.gif in this repo and uncomment:
 
-<div align="center">
-  <img src="./assets/dashboard-demo.gif" width="85%" alt="Power BI dashboard demo" />
-  <br/><sub>Power BI executive dashboard — sample data</sub>
-</div>
-========================================================= -->
 
 ---
 
@@ -211,22 +204,19 @@ flowchart LR
 
 ---
 
-## 📈 GitHub Analytics Dashboard
+## 📈 GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F2C811&icon_color=F2C811&text_color=C9D1D9&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=F2C811&text_color=C9D1D9" alt="Top languages" />
+<img src="https://streak-stats.demolab.com?user=matheus-aragao-cavalcante&starting_year=2021&hide_border=true&background=0D1117&ring=F2C811&fire=F2C811&currStreakLabel=F2C811&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&stroke=30363D" alt="GitHub streak" />
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=0D1117&ring=F2C811&fire=F2C811&currStreakLabel=F2C811&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&stroke=30363D" alt="GitHub streak" />
+<br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=C9D1D9&line=F2C811&point=FFFFFF&area=true&area_color=F2C811&hide_border=true&custom_title=Contribution%20Trend%20%28Last%2031%20Days%29" alt="Contribution activity graph" />
-
-<!-- Requires the snake GitHub Action (see setup instructions) -->
+<!-- Requires the snake GitHub Action (.github/workflows/snake.yml) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheus-aragao-cavalcante/matheus-aragao-cavalcante/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matheus-aragao-cavalcante/matheus-aragao-cavalcante/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/matheus-aragao-cavalcante/matheus-aragao-cavalcante/output/github-snake-dark.svg" />
 </picture>
 
 </div>
